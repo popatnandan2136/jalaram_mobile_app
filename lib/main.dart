@@ -32,7 +32,7 @@ void main() async {
 class NpDigitalApp extends StatelessWidget {
   const NpDigitalApp({super.key});
 
-  
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
